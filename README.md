@@ -92,6 +92,11 @@ This list was initially seeded by many of the links found on [this great reddit 
 
 * 18xx - An economic system based on railroading history.
     * [18xx.Games](https://18xx.games) - (2-12) Free online platform to play 12+ 18xx games async or real-time.
+    * [Board18](https://prod1.board18.org/) - (2+) Map and market state tracker. Requires a spreadsheet to play.
+* [Boardgamecore](http://play.boardgamecore.net/)
+    * Food Chain Magnate
+    * Indonesia
+    * The Great Zimbabwe
 
 ## Contributing
 
