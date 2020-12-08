@@ -7,6 +7,7 @@ This list was initially seeded by many of the links found on [this great reddit 
 - [Social Deduction Games](#social-deduction-games)
 - [Drawing Games](#drawing-games)
 - [Deduction Games](#deduction-games)
+- [Economic Games](#economic-games)
 - [Contributing](#contributing)
 
 - - -
@@ -84,6 +85,18 @@ This list was initially seeded by many of the links found on [this great reddit 
 * [Hanabi](https://hanab.live) - (2-5) Sign up and join game from lobby. Simply laid out.
 * [Dixit](https://isolant.games) - (3-16) Register and sign up, then share room code.
 * [Skull](https://skull.games) - (3-6) Just enter room, no sign up involved.
+
+## Economic Games
+
+*How much money can I make?*
+
+* 18xx - An economic system based on railroading history.
+    * [18xx.Games](https://18xx.games) - (2-12) Free online platform to play 12+ 18xx games async or real-time.
+    * [Board18](https://prod1.board18.org/) - (2+) Map and market state tracker. Requires a spreadsheet to play.
+* [Boardgamecore](http://play.boardgamecore.net/)
+    * Food Chain Magnate
+    * Indonesia
+    * The Great Zimbabwe
 
 ## Contributing
 
