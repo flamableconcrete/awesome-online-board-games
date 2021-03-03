@@ -15,6 +15,7 @@ This list was initially seeded by many of the links found on [this great reddit 
 
 *Games with words!*
 
+* [Pretend You're Xyzzy](https://pyx-1.pretendyoure.xyz/zy/) - (3+) A Cards Against Humanity clone.
 * [Boggle (ewordchallenge)](https://www.ewordchallenge.net) - (2+) Sign up for a name. Refresh and join game.
 * [Boggle (weboggle)](https://weboggle.info) - (2+) Online Web Boggle, the free online word game!
 * [Serpentine(https://serpentinegame.com) - (2+) Serpentine is an addictive free online boggle game where you and others play to see who can form words the fastest.
