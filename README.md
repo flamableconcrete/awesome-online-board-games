@@ -99,6 +99,7 @@ This list was initially seeded by many of the links found on [this great reddit 
     * Food Chain Magnate
     * Indonesia
     * The Great Zimbabwe
+* [LlamaBerry](https://llamaberry.com) - (1+) Strategically purchase berry fields to grow the most productive farm. Hire llamas for offensive or defensive moves, and watch out for Grump Llama. Good for groups.
 
 ## Contributing
 
