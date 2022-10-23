@@ -34,7 +34,7 @@ This list was initially seeded by many of the links found on [this great reddit 
 * [Netgames](https://netgames.io) - Website (mobile friendly) with several social deduction games
     * [One Night Ultimate Werewolf](https://netgames.io/games/onu-werewolf/) - (3-21) Figure out who the Werewolves are and to kill at least one of them in order to win.
     * [Codewords](https://netgames.io/games/codewords/) - (4+) Rival Codebreakers race to identify which of the 25 Codewords are their own.
-    * [Secret Hitler](https://netgames.io/games/secret-hitler/) - (5-10) Each party wishes to enact their own policies; if they enact enough, then the country will be under their control.
+    * [Secret Sith](https://netgames.io/games/secret-sith/) - (5-10) Each party wishes to enact their own policies; if they enact enough, then the country will be under their control.
     * [Spyfall](https://netgames.io/games/spyfall/) - (3+) There is a spy among you, and you have met to uncover them.
     * [Love Letter](https://netgames.io/games/love-letter/) - (2-4) Get your love letter into Princess Annette's hands while deflecting the letters from competing suitors.
     * [Avalon](https://netgames.io/games/avalon/) - (5-10) The Loyal Servants of Arthur are on a quest for the Holy Grail.
@@ -43,14 +43,10 @@ This list was initially seeded by many of the links found on [this great reddit 
 * [Pro Avalon](https://www.proavalon.com) - (5-10) A small band of revolutionaries must use logic and deduction in order to ferret out the spies who have infiltrated their ranks.
 * [The Resistance Plus](http://www.theresistanceplus.com) - (5-10) Very similar to the Pro Avalon website.
 * [Mafia](https://mafia.gg) - (4+) Mafia.gg is an online, text-based version of the classic party game Mafia.
-* [Epic Mafia](https://epicmafia.com) - (4+) EpicMafia is an online expansion of the classic party game Mafia!
 * [Werewolves](https://werewolv.es) - (4+) A free real time version of the social deduction party game Werewolf aka Mafia played in your browser.
 * [Coup](https://www.chickenkoup.com) - (2-6) Simply laid out. Share game code. No sign up involved.
-* [Robot Interrogation](http://interrogation.ftwinston.com) - (2) Can you tell if someone is secretly a robot? This is an online version of [Inhuman Conditions](https://www.robots.management).
 * Secret Hitler - (5-10) Each party wishes to enact their own policies; if they enact enough, then the country will be under their control.
-    * [Netgames](https://netgames.io/games/secret-hitler/) - Is simple, share game code.
     * [secret.ethanl.ee](https://secret.ethanl.ee) - Simple site, Share game code. don’t have to sign up. Unlike the sites above this site has a traditional game board view.
-    * [private.secrethitler.io](https://private.secrethitler.io/) - More complex. Sign up, join via URL or lobby. Features voting history.
 * [Spyfall (adrianocola)](https://spyfall.adrianocola.com) - (3+) Allows 1 or 2 spies.
 * [Spyfall (tannerkrewson)](https://spyfall.tannerkrewson.com/) - (3+) can enable a 2% chance of everyone being spies.
 * [Deception: Murder in Hong Kong](http://ninjabunny.github.io/mihk/) - (4-12) No connecting, Forensic Scientist visits site and screen shares.
