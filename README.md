@@ -17,14 +17,11 @@ This list was initially seeded by many of the links found on [this great reddit 
 *Games with words!*
 
 * [Pretend You're Xyzzy](https://pyx-1.pretendyoure.xyz/zy/) - (3+) A Cards Against Humanity clone.
-* [Boggle (ewordchallenge)](https://www.ewordchallenge.net) - (2+) Sign up for a name. Refresh and join game.
 * [Boggle (weboggle)](https://weboggle.info) - (2+) Online Web Boggle, the free online word game!
-* [Serpentine(https://serpentinegame.com) - (2+) Serpentine is an addictive free online boggle game where you and others play to see who can form words the fastest.
-* [Wordmine](https://www.cyberspaces.app/wordmine) - (2+) Wordmine is a word construction game over video chat for up to 8 players.
+* [Serpentine](https://serpentinegame.com) - (2+) Serpentine is an addictive free online boggle game where you and others play to see who can form words the fastest.
 * [Just One](https://oneword.games) - (3-7) Online version of [Just One](https://amzn.to/2xV5lUm), a co-op word game for 3+ players.
 * [Fishbowl / The Hat Game](https://fishbowl-game.com) - (4+) Fishbowl is a virtual version of a fun (and mostly hilarious) guessing game, designed for any group of all ages!
 * [Taboo](https://playtaboo.com) - (2+) Everyone visits same site, no connecting. Just generates new words.
-* [Anagram Thief!](http://anagrams.jonmarkgo.com) - (2-8) Anagram Thief is a real-time, web-based version of a board game called "Snatch-word" or "Anagrams."
 * [Scrabble](https://www.isc.ro) - (2-4) Sign up, send game invites. There’s many options for online scrabble!
 * [Scattergories (scattergoriesonline)](https://scattergoriesonline.net/) - (2-34) Share link. Sign up for extra categories.
 * [Scattergories (keiranking)](http://www.keiranking.com/gary/) - (2+) A simple Scattergories alternative with no connecting, just generates new cards.
