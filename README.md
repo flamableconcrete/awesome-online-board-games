@@ -74,11 +74,9 @@ This list was initially seeded by many of the links found on [this great reddit 
     * [Here to There](https://heretothere.app) - (2+) No connecting. Screen share or take screen shots.
     * [Telewave](https://gjeuken.github.io/telewave/) - (2+)  No connecting. Screen share or take screen shots.
 * [Decrypto](https://whoawhoa.github.io/decrypto/) - (3-8) No connecting, only gives new codes. Screen share and digitally note take elsewhere.
-* [Liar's Dice (cyberspaces)](https://www.cyberspaces.app/liarsdice) - (2-8) Just share link. Features video chat.
 * [Liar's Dice (funnode)](https://www.funnode.com) - (2-10) Join game via lobby, don't have to sign up.
 * [Codenames](https://codenamesgame.com) - (4+) The official site. Share link, no sign up involved.
 * [Hanabi](https://hanab.live) - (2-5) Sign up and join game from lobby. Simply laid out.
-* [Dixit](https://isolant.games) - (3-16) Register and sign up, then share room code.
 * [Skull](https://skull.games) - (3-6) Just enter room, no sign up involved.
 
 ## Economic Games
@@ -87,7 +85,6 @@ This list was initially seeded by many of the links found on [this great reddit 
 
 * 18xx - An economic system based on railroading history.
     * [18xx.Games](https://18xx.games) - (2-12) Free online platform to play 12+ 18xx games async or real-time.
-    * [Board18](https://prod1.board18.org/) - (2+) Map and market state tracker. Requires a spreadsheet to play.
 * [Boardgamecore](http://play.boardgamecore.net/)
     * Food Chain Magnate
     * Indonesia
