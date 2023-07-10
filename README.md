@@ -17,7 +17,6 @@ This list was initially seeded by many of the links found on [this great reddit 
 *Games with words!*
 
 * [Pretend You're Xyzzy](https://pyx-1.pretendyoure.xyz/zy/) - (3+) A Cards Against Humanity clone.
-* [Boggle (weboggle)](https://weboggle.info) - (2+) Online Web Boggle, the free online word game!
 * [Serpentine](https://serpentinegame.com) - (2+) Serpentine is an addictive free online boggle game where you and others play to see who can form words the fastest.
 * [Just One](https://oneword.games) - (3-7) Online version of [Just One](https://amzn.to/2xV5lUm), a co-op word game for 3+ players.
 * [Fishbowl / The Hat Game](https://fishbowl-game.com) - (4+) Fishbowl is a virtual version of a fun (and mostly hilarious) guessing game, designed for any group of all ages!
@@ -59,7 +58,7 @@ This list was initially seeded by many of the links found on [this great reddit 
 * [Pictionary (sketchful.io)](https://sketchful.io) - (2-64) Pictionary with a large group. Can include custom words.
 * [Pictionary (drawasaurus)](https://www.drawasaurus.org) - (2-20) Pictionary with custom words and some unique settings.
 * Telestrations
-    * [Garticphone](https://garticphone.com/) - (4+) Create room and share link.
+    * [Garticphone](https://garticphone.com/) - (4+) Create room and share link.
     * [Drawphone](https://drawphone.tannerkrewson.com/) - (4+) Just share game code. Can adjust timer, can’t draw in colour.
     * [Broken Picture Phone](https://www.brokenpicturephone.com) - (?) Simple, share room code. No timer, people’s “books” visibly backlog.
     * [Cosel](https://cosel.io) - (?) Simple, share a link. 90 sec timer.
