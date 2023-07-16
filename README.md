@@ -16,16 +16,26 @@ This list was initially seeded by many of the links found on [this great reddit 
 
 *Games with words!*
 
+* [5 Second Rule](https://5second.app/) - (2+) Think fast, name three! In this game, you'll have just five seconds to come up with three answers.
 * [Pretend You're Xyzzy](https://pyx-1.pretendyoure.xyz/zy/) - (3+) A Cards Against Humanity clone.
-* [Boggle (weboggle)](https://weboggle.info) - (2+) Online Web Boggle, the free online word game!
 * [Serpentine](https://serpentinegame.com) - (2+) Serpentine is an addictive free online boggle game where you and others play to see who can form words the fastest.
 * [Just One](https://oneword.games) - (3-7) Online version of [Just One](https://amzn.to/2xV5lUm), a co-op word game for 3+ players.
 * [Fishbowl / The Hat Game](https://fishbowl-game.com) - (4+) Fishbowl is a virtual version of a fun (and mostly hilarious) guessing game, designed for any group of all ages!
+* [Charades](https://charades.app/) - (2+) Mime, gesture, and act out clues. Challenge your teammates to guess within a time limit.
 * [Taboo](https://playtaboo.com) - (2+) Everyone visits same site, no connecting. Just generates new words.
 * [Scrabble](https://www.isc.ro) - (2-4) Sign up, send game invites. There’s many options for online scrabble!
 * [Scattergories (scattergoriesonline)](https://scattergoriesonline.net/) - (2-34) Share link. Sign up for extra categories.
 * [Scattergories (keiranking)](http://www.keiranking.com/gary/) - (2+) A simple Scattergories alternative with no connecting, just generates new cards.
 * [Out of Context](https://www.outofcontext.party) - (2+)  Features various "Build the Story" type games (read the rules for each one). Share game code, no sign up involved.
+
+## Party Games
+
+*Ignite the fun at any social gathering!*
+
+* [Bad Cards](https://bad.cards/) - (3+) An unofficial online version of Cards Against Humanity.
+* [Most Likely To](https://mostlikelyto.app/) - (3+) The wild party game for adults. Draw a card, vote on the count of three, and hilarity follows.
+* [King's Cup](https://psycatgames.com/app/kings-cup/) - (4-12) One of the most famous drinking games with cards. Play online with friends.
+* [Would you rather?](https://psycatgames.com/app/would-you-rather/) - (2+) The game of hard decisions. Enjoy challenging and hilarious dilemmas together with friends.
 
 ## Social Deduction Games
 
@@ -75,7 +85,7 @@ This list was initially seeded by many of the links found on [this great reddit 
     * [Telewave](https://gjeuken.github.io/telewave/) - (2+)  No connecting. Screen share or take screen shots.
 * [Decrypto](https://whoawhoa.github.io/decrypto/) - (3-8) No connecting, only gives new codes. Screen share and digitally note take elsewhere.
 * [Liar's Dice (funnode)](https://www.funnode.com) - (2-10) Join game via lobby, don't have to sign up.
-* [Codenames](https://codenamesgame.com) - (4+) The official site. Share link, no sign up involved.
+* [Codenames](https://codenames.game) - (4+) The official site. Share link, no sign up involved.
 * [Hanabi](https://hanab.live) - (2-5) Sign up and join game from lobby. Simply laid out.
 * [Skull](https://skull.games) - (3-6) Just enter room, no sign up involved.
 
