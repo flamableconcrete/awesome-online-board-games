@@ -8,6 +8,7 @@ This list was initially seeded by many of the links found on [this great reddit 
 - [Drawing Games](#drawing-games)
 - [Deduction Games](#deduction-games)
 - [Economic Games](#economic-games)
+- [Abstract Strategy Games](#abstract-strategy-games)
 - [Contributing](#contributing)
 
 - - -
@@ -100,6 +101,13 @@ This list was initially seeded by many of the links found on [this great reddit 
     * Indonesia
     * The Great Zimbabwe
 * [LlamaBerry](https://llamaberry.com) - (1+) Strategically purchase berry fields to grow the most productive farm. Hire llamas for offensive or defensive moves, and watch out for Grump Llama. Good for groups.
+
+## Abstract Strategy Games
+* [Chess](https://www.chess.com)
+* [Go](https://online-go.com/)
+* [Abalone](https://www.playabalone.com)
+* [Yinsh](https://www.yinsh.net)
+* [Hive](https://www.hivegame.com)
 
 ## Contributing
 
