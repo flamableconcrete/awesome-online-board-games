@@ -35,6 +35,7 @@ This list was initially seeded by many of the links found on [this great reddit 
 * [Bad Cards](https://bad.cards/) - (3+) An unofficial online version of Cards Against Humanity.
 * [Most Likely To](https://mostlikelyto.app/) - (3+) The wild party game for adults. Draw a card, vote on the count of three, and hilarity follows.
 * [King's Cup](https://psycatgames.com/app/kings-cup/) - (4-12) One of the most famous drinking games with cards. Play online with friends.
+* [Kings Cup Online](https://www.onlinekingscup.com/) - (2+) One of the most famous card drinking games. 5 rule sets (Classic, Funny, College, Couples, and an alcohol-free Family mode), full 13-card rule guide built in. No sign up, play in any browser.
 * [Would you rather?](https://psycatgames.com/app/would-you-rather/) - (2+) The game of hard decisions. Enjoy challenging and hilarious dilemmas together with friends.
 
 ## Social Deduction Games
