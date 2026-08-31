@@ -1,9 +1,12 @@
+
+
 # Awesome Online Board Games [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of awesome board games, card games, and party games
 
 This list was initially seeded by many of the links found on [this great reddit post](https://www.reddit.com/r/coolguides/comments/gfu560/options_for_online_board_games/).
 
 - [Word Games](#word-games)
+- [Party Games](#party-games)
 - [Social Deduction Games](#social-deduction-games)
 - [Drawing Games](#drawing-games)
 - [Deduction Games](#deduction-games)
@@ -69,7 +72,7 @@ This list was initially seeded by many of the links found on [this great reddit 
 * [Pictionary (sketchful.io)](https://sketchful.io) - (2-64) Pictionary with a large group. Can include custom words.
 * [Pictionary (drawasaurus)](https://www.drawasaurus.org) - (2-20) Pictionary with custom words and some unique settings.
 * Telestrations
-    * [Garticphone](https://garticphone.com/) - (4+) Create room and share link.
+   * [Garticphone](https://garticphone.com/) - (4+) Create room and share link.
     * [Drawphone](https://drawphone.tannerkrewson.com/) - (4+) Just share game code. Can adjust timer, can’t draw in colour.
     * [Broken Picture Phone](https://www.brokenpicturephone.com) - (?) Simple, share room code. No timer, people’s “books” visibly backlog.
     * [Cosel](https://cosel.io) - (?) Simple, share a link. 90 sec timer.
