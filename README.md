@@ -36,6 +36,7 @@ This list was initially seeded by many of the links found on [this great reddit 
 * [Most Likely To](https://mostlikelyto.app/) - (3+) The wild party game for adults. Draw a card, vote on the count of three, and hilarity follows.
 * [King's Cup](https://psycatgames.com/app/kings-cup/) - (4-12) One of the most famous drinking games with cards. Play online with friends.
 * [Would you rather?](https://psycatgames.com/app/would-you-rather/) - (2+) The game of hard decisions. Enjoy challenging and hilarious dilemmas together with friends.
+* [Parlour](https://github.com/braedonsaunders/parlour) - (1+) Deterministic TypeScript card-game engine with a cozy browser table for Blitz, Wild, and P2P rooms.
 
 ## Social Deduction Games
 
@@ -104,3 +105,4 @@ This list was initially seeded by many of the links found on [this great reddit 
 ## Contributing
 
 Please feel free to add issues, fork, and make pull requests. Thanks for being interested!
+
