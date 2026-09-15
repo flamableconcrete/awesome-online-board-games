@@ -105,4 +105,3 @@ This list was initially seeded by many of the links found on [this great reddit 
 ## Contributing
 
 Please feel free to add issues, fork, and make pull requests. Thanks for being interested!
-
