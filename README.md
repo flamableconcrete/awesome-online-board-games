@@ -36,6 +36,7 @@ This list was initially seeded by many of the links found on [this great reddit 
 * [Most Likely To](https://mostlikelyto.app/) - (3+) The wild party game for adults. Draw a card, vote on the count of three, and hilarity follows.
 * [King's Cup](https://psycatgames.com/app/kings-cup/) - (4-12) One of the most famous drinking games with cards. Play online with friends.
 * [Would you rather?](https://psycatgames.com/app/would-you-rather/) - (2+) The game of hard decisions. Enjoy challenging and hilarious dilemmas together with friends.
+* [Open Party Lab](https://open-party-lab.onrender.com) - Party-game collection with a shared host screen and phone browser controllers. Player counts vary by game; scan a QR code to join. Open-source and self-hostable; remote groups need screen sharing.
 
 ## Social Deduction Games
 
