@@ -36,6 +36,7 @@ This list was initially seeded by many of the links found on [this great reddit 
 * [Most Likely To](https://mostlikelyto.app/) - (3+) The wild party game for adults. Draw a card, vote on the count of three, and hilarity follows.
 * [King's Cup](https://psycatgames.com/app/kings-cup/) - (4-12) One of the most famous drinking games with cards. Play online with friends.
 * [Would you rather?](https://psycatgames.com/app/would-you-rather/) - (2+) The game of hard decisions. Enjoy challenging and hilarious dilemmas together with friends.
+* [Pass and Play Games](https://passandplaygames.com/party-games) - (2-12) Free party games played by passing one phone around: Imposter, Charades, Mafia, Truth or Dare, Would You Rather and more. No sign-up, works offline.
 
 ## Social Deduction Games
 
@@ -58,6 +59,7 @@ This list was initially seeded by many of the links found on [this great reddit 
 * Secret Hitler - (5-10) Each party wishes to enact their own policies; if they enact enough, then the country will be under their control.
     * [secret.ethanl.ee](https://secret.ethanl.ee) - Simple site, Share game code. don’t have to sign up. Unlike the sites above this site has a traditional game board view.
 * [Spyfall (adrianocola)](https://spyfall.adrianocola.com) - (3+) Allows 1 or 2 spies.
+* [Imposter (Pass and Play Games)](https://passandplaygames.com/imposter) - (3-12) Everyone but the imposter sees the secret word. Give one-word clues, vote, and catch the liar. Played on one shared phone, no narrator needed.
 * [Spyfall (tannerkrewson)](https://spyfall.tannerkrewson.com/) - (3+) can enable a 2% chance of everyone being spies.
 * [Deception: Murder in Hong Kong](http://ninjabunny.github.io/mihk/) - (4-12) No connecting, Forensic Scientist visits site and screen shares.
 
