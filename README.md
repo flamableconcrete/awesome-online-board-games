@@ -27,6 +27,7 @@ This list was initially seeded by many of the links found on [this great reddit 
 * [Scattergories (scattergoriesonline)](https://scattergoriesonline.net/) - (2-34) Share link. Sign up for extra categories.
 * [Scattergories (keiranking)](http://www.keiranking.com/gary/) - (2+) A simple Scattergories alternative with no connecting, just generates new cards.
 * [Out of Context](https://www.outofcontext.party) - (2+)  Features various "Build the Story" type games (read the rules for each one). Share game code, no sign up involved.
+* [Puffer Party](https://pufferparty.org/) - (2–16) Take turns naming unused answers to pass a ticking puffer. A timeout costs a heart. Share a room link to invite friends.
 
 ## Party Games
 
